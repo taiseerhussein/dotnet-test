@@ -2,7 +2,7 @@
 using static System.Console;
 
 // Hello world, indeed
-WriteLine("Hello, World!");
+WriteLine("Hello, World! Test");
 
 DateTime nowUtc = DateTime.UtcNow;
 DateTime now = DateTime.Now;
