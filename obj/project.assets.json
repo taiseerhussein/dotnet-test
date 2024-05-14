@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thussein/projects/App/DotNet.Docker.csproj",
+      "projectUniqueName": "/Users/thussein/projects/dotnetapp/DotNet.Docker.csproj",
       "projectName": "DotNet.Docker",
-      "projectPath": "/Users/thussein/projects/App/DotNet.Docker.csproj",
+      "projectPath": "/Users/thussein/projects/dotnetapp/DotNet.Docker.csproj",
       "packagesPath": "/Users/thussein/.nuget/packages/",
-      "outputPath": "/Users/thussein/projects/App/obj/",
+      "outputPath": "/Users/thussein/projects/dotnetapp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thussein/.nuget/NuGet/NuGet.Config"

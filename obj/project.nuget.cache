@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "puy52eI0zeDz3HxKZSRrjyefkAB/uQFAFBU8o0j3kujyUKeLAPiP4ULmEwU2F6IEgSAsMFzkraucccMunOg4Zg==",
+  "dgSpecHash": "pQGQNi5CISHAka6HTPsobE3iYNIx4pEnZXhnxA8Z1cOpecifB4HFavaPP9qSM+DFobNmhrV3SDudSUMUxtCRuA==",
   "success": true,
-  "projectFilePath": "/Users/thussein/projects/App/DotNet.Docker.csproj",
+  "projectFilePath": "/Users/thussein/projects/dotnetapp/DotNet.Docker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
