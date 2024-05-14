@@ -10,7 +10,7 @@ RUN dotnet restore --ucr
 
 # copy and publish app and libraries
 COPY . .
-RUN dotnet publish --ucr --self-contained false --no-restore -o /app
+RUN dotnet publish dotnetapp.sln --ucr --self-contained false --no-restore -o /app
 
 # final stage/image
 FROM mcr.microsoft.com/dotnet/runtime:$TAG
