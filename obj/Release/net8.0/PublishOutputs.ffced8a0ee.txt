@@ -1,0 +1,5 @@
+/Users/thussein/projects/App/bin/Release/net8.0/publish/DotNet.Docker
+/Users/thussein/projects/App/bin/Release/net8.0/publish/DotNet.Docker.dll
+/Users/thussein/projects/App/bin/Release/net8.0/publish/DotNet.Docker.deps.json
+/Users/thussein/projects/App/bin/Release/net8.0/publish/DotNet.Docker.runtimeconfig.json
+/Users/thussein/projects/App/bin/Release/net8.0/publish/DotNet.Docker.pdb
